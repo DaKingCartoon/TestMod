@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="cpw.mods.fml.common.Mod"/>
+<fullyQualifiedTypeName name="java.lang.ref.Reference"/>
+<fullyQualifiedTypeName name="com.gmail.dakingcartoon.TestMod.items.TestModItem"/>
+<fullyQualifiedTypeName name="com.gmail.dakingcartoon.mods.TestMod.help.RegisterHelper"/>
+<fullyQualifiedTypeName name="com.gmail.dakingcartoon.TestMod.init.ModBlocks"/>
+<fullyQualifiedTypeName name="net.minecraft.block.Block"/>
+<fullyQualifiedTypeName name="net.minecraft.block.material.Material"/>
+<fullyQualifiedTypeName name="com.gmail.dakingcartoon.mods.TestMod.blocks.BlockClusteredPearlBlock"/>
+<fullyQualifiedTypeName name="net.minecraft.client.renderer.texture.IIconRegister"/>
+<fullyQualifiedTypeName name="com.gmail.dakingcartoon.mods.TestMod.help.Reference"/>
+<fullyQualifiedTypeName name="com.gmail.dakingcartoon.mods.TestMod.blocks.BlockGarnetBlock"/>
+<fullyQualifiedTypeName name="com.gmail.dakingcartoon.TestMod.init.ModItems"/>
+<fullyQualifiedTypeName name="net.minecraft.item.Item"/>
+<fullyQualifiedTypeName name="cpw.mods.fml.relauncher.SideOnly"/>
+<fullyQualifiedTypeName name="net.minecraft.creativetab.CreativeTabs"/>
+<fullyQualifiedTypeName name="cpw.mods.fml.relauncher.Side"/>
+<fullyQualifiedTypeName name="com.gmail.dakingcartoon.mods.TestMod.tabs.ModTabs"/>
+</qualifiedTypeNameHistroy>
