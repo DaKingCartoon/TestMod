@@ -1,0 +1,19 @@
+package com.gmail.dakingcartoon.mods.TestMod.crafting;
+
+import net.minecraft.item.ItemStack;
+
+import com.gmail.dakingcartoon.TestMod.init.ModBlocks;
+import com.gmail.dakingcartoon.TestMod.init.ModItems;
+
+import cpw.mods.fml.common.registry.GameRegistry;
+
+public class Recipes {
+	public static void init() {
+		GameRegistry.addShapedRecipe(new ItemStack(ModBlocks.clusteredPearlBlock), new Object[] {"AAA", "AAA", "AAA", 'A', ModItems.pearl});
+		GameRegistry.addShapedRecipe(new ItemStack(ModBlocks.garnetBlock), new Object[] {"AAA", "AAA", "AAA", 'A', ModItems.garnet});
+		GameRegistry.addShapedRecipe(new ItemStack(ModBlocks.amethystBlock), new Object[] {"AAA", "AAA", "AAA", 'A', ModItems.amethyst});
+		GameRegistry.addSmelting(ModBlocks.garnetOre, new ItemStack(ModItems.garnet), 0.8F);
+		GameRegistry.addSmelting(ModBlocks.amethystOre, new ItemStack(ModItems.amethyst), 0.8F);
+	}
+	
+}

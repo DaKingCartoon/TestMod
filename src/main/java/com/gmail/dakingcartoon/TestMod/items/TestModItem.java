@@ -22,5 +22,7 @@ public class TestModItem extends Item {
 	{
 		itemIcon = par1IconRegister.registerIcon(Reference.MODID + ":" + getUnlocalizedName().substring(5));
 	}
+	
 }
+
 

@@ -1,0 +1,7 @@
+package com.gmail.dakingcartoon.TestMod.init;
+
+import net.minecraft.item.ItemTool;
+
+public class ItemTestModShovel extends ItemShovel{
+
+}
