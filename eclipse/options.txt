@@ -5,10 +5,10 @@ gamma:0.0
 saturation:0.0
 renderDistance:4
 guiScale:0
-particles:2
+particles:1
 bobView:false
 anaglyph3d:false
-advancedOpengl:true
+advancedOpengl:false
 maxFps:120
 fboEnable:true
 difficulty:0

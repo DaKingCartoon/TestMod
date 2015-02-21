@@ -1,21 +1,5 @@
-itemGroup.tabTestMod=TestMod
-
-//gems
-
-//pearl
 item.pearl.name=Pearl
 tile.clusteredPearlBlock.name=Clustered Pearl Block
-
-//garnet
+itemGroup.tabTestMod=TestMod
 item.garnet.name=Garnet
-tile.garnetBlock.name=Garnet Block
-tile.garnetOre.name=Garnet Ore
-
-//amethyst
-item.amethyst.name=Amethyst
-tile.amethystBlock.name=Amethyst Block
-tile.amethystOre.name=Amethyst Ore
-
-//ivory
-item.rawIvory.name= Raw Ivory
-tile.ivoryBlock.name=Ivory Block
+tile.garnetBlock.name=Garnet block

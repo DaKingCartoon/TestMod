@@ -9,15 +9,10 @@ public class ModItems
 {
 	public static Item pearl = new TestModItem().setUnlocalizedName("pearl");
 	public static Item garnet = new TestModItem().setUnlocalizedName("garnet");
-	public static Item amethyst = new TestModItem().setUnlocalizedName("amethyst");
-	public static Item rawIvory = new TestModItem().setUnlocalizedName("rawIvory");
 	
 	public static void init()
 		{
 			RegisterHelper.registerItem(pearl);
 			RegisterHelper.registerItem(garnet);
-			RegisterHelper.registerItem(amethyst);
-			RegisterHelper.registerItem(rawIvory);
-			
 		}
 }
